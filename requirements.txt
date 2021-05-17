@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pandas
+scipy
+ipywidgets
+requests
+pillow
