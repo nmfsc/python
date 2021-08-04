@@ -7,3 +7,4 @@ fractions
 timeit
 ipywidgets
 requests
+networkx
