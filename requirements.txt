@@ -6,3 +6,6 @@ ipywidgets
 requests
 pillow
 networkx
+PyWavelets
+statsmodels
+tensorflow
