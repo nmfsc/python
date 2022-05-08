@@ -8,3 +8,6 @@ timeit
 ipywidgets
 requests
 networkx
+PyWavelets
+statsmodels
+tensorflow
