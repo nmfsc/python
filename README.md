@@ -1,6 +1,7 @@
 # Python for Scientific Compting
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nmfsc/python/main?filepath=python.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmfsc/python/blob/main/python.ipynb)
 [![Amazon](https://img.shields.io/badge/Buy%20the%20book-on%20Amazon-lightgrey?style=flat)](https://www.amazon.com/dp/B09VFRYB4W)
 [![EquaSharePress](https://img.shields.io/badge/Download%20the%20digital%20copy-grey?style=flat)](https://www.equalsharepress.com/media/NMFSC.pdf")
 
